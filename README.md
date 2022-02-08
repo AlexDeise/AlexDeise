@@ -13,7 +13,7 @@
 -I attended a Full Time Java Web Development Bootcamp in Sept. 21 at Tech Elevator to puruse my goal of becoming a full time software developer. While at Tech Elevator I was exposed to Full Stack development mainly using Java, Spring Boot, Postgres, and Vue.js. During that time I had several capstone projects that soldified my skills in object oriented programming, Unit Testing, Database Design, and how to work in an Agile work environment.
 
 ## Current Tech Stack
--`Java` , `javascript.` , `HTML` , `CSS` , `Vue.js` , `PostgreSQL`, `Bootstrap`
+-`Java` , `Javascript.` , `HTML` , `CSS` , `Vue.js` , `PostgreSQL`, `Bootstrap`
 
 ## Currently Learning / Exploring
 - `.React`
