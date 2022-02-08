@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 -->
 
 ### Github Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexDeise&theme=dark)](https://git.io/streak-stats)
+
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexDeise&count_private=true&theme=dark)
