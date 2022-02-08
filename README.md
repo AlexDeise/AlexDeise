@@ -2,7 +2,7 @@
 
 <!-- ASTROPHOTO BANNER IMG-->
 <img src="DSC05176.jpg"></img>
-### More About Me
+## More About Me
 
 -There is a lot more to me than software development, I am also interested in Astrophotography, Bicycling, Photography, and Snowboarding!
 
@@ -11,6 +11,14 @@
 -I initially became interested in software as a career a few years ago whenever I had the opportunity to take courses at University of Pittsburgh where I worked full time in a research lab. One of my first courses was a basic web programming course where I learned HTML/CSS/JS to create static web pages, the first site I created was to showcase some of my photography to family and friends. Many interations later it now serves as my personal development portofolio and photography portfolio. I took several more courses in computer science at Pitt until the scheduling conflicted with my full time job, however I still continued to learn on my own through various internet resources (FreeCodeCamp, HackerRank, YouTubeand Udemy to name a few)
 
 -I attended a Full Time Java Web Development Bootcamp in Sept. 21 at Tech Elevator to puruse my goal of becoming a full time software developer. While at Tech Elevator I was exposed to Full Stack development mainly using Java, Spring Boot, Postgres, and Vue.js. During that time I had several capstone projects that soldified my skills in object oriented programming, Unit Testing, Database Design, and how to work in an Agile work environment.
+
+## Current Tech Stack
+-`Java` , `javascript.` , `HTML` , `CSS` , `Vue.js` , `PostgreSQL`, `Bootstrap`
+
+## Currently Learning / Exploring
+- `.React`
+- `Express / Node`
+- `Firebase`
 <!--
 Here are some ideas to get you started:
 
@@ -24,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Github Stats
+## Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexDeise&theme=dark)](https://git.io/streak-stats)
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexDeise&count_private=true&theme=dark)
