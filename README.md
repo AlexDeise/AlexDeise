@@ -1,7 +1,7 @@
 # My name is Alex and I am a software developer! 
 
 <!-- ASTROPHOTO BANNER IMG-->
-<a href="www.alexdeise.com/"><img src="DSC05176.jpg"></img></a>
+<a href="https://www.alexdeise.com/" target="_blank"><img src="DSC05176.jpg"></img></a>
 Photo taken @ Seven Springs Mtn Resort Summer 2021 Click photo above for more space photos / personal website. 
 
 
