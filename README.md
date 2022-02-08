@@ -19,7 +19,7 @@ Photo taken @ Seven Springs Mtn Resort Summer 2021 Click photo above for more sp
 -`Java` , `Javascript.` , `HTML` , `CSS` , `Vue.js` , `PostgreSQL`, `Bootstrap`
 
 ## Currently Learning / Exploring
-- `.React`
+- `React.js`
 - `Express / Node`
 - `Firebase`
 <!--
@@ -36,6 +36,5 @@ Here are some ideas to get you started:
 -->
 
 ## Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexDeise&theme=dark)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexDeise&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDeise&theme=dark" />
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexDeise&count_private=true&theme=dark)
