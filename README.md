@@ -1,8 +1,16 @@
-### Hi there 👋
+# My name is Alex and I am a software developer! 
 
+<!-- ASTROPHOTO BANNER IMG-->
+
+### More About Me
+There is a lot more to me than software development, I am also interested in Astrophotography, Bicycling, Photography, and Snowboarding!
+
+I graduated from University of Pittsburgh in 2013 with a Bachelors in Biology / Chemistry. I spent 8 years working in a research lab for the Pathology Department at Pitt, I am now transitioning my career from academic research to software development. 
+
+I initially became interested in software as a career a few years ago whenever I had the opportunity to take courses at University of Pittsburgh where I worked full time in a research lab. One of my first courses was a basic web programming course where I learned HTML/CSS/JS to create static web pages, the first site I created was to showcase some of my photography to family and friends. Many interations later it now serves as my personal development portofolio and photography portfolio. I took several more courses in computer science at Pitt until the scheduling conflicted with my full time job, however I still continued to learn on my own through various internet resources (FreeCodeCamp, HackerRank, YouTubeand Udemy to name a few)
+
+I attended a Full Time Java Web Development Bootcamp in Sept. 21 at Tech Elevator to puruse my goal of becoming a full time software developer. While at Tech Elevator I was exposed to Full Stack development mainly using Java, Spring Boot, Postgres, and Vue.js. During that time I had several capstone projects that soldified my skills in object oriented programming, Unit Testing, Database Design, and how to work in an Agile work environment.
 <!--
-**AlexDeise/AlexDeise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Github Stats
