@@ -1,7 +1,10 @@
 # My name is Alex and I am a software developer! 
 
 <!-- ASTROPHOTO BANNER IMG-->
-<img src="DSC05176.jpg"></img>
+<a href="www.alexdeise.com/"><img src="DSC05176.jpg"></img></a>
+Photo taken @ Seven Springs Mtn Resort Summer 2021 Click photo above for more space photos / personal website. 
+
+
 ## More About Me
 
 -There is a lot more to me than software development, I am also interested in Astrophotography, Bicycling, Photography, and Snowboarding!
@@ -34,5 +37,5 @@ Here are some ideas to get you started:
 
 ## Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexDeise&theme=dark)](https://git.io/streak-stats)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDeise&theme=dark" />
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexDeise&count_private=true&theme=dark)
