@@ -1,4 +1,4 @@
-# My name is Alex and I am a software developer! 
+# My name is Alex and I currently a Full Stack Developer at Fedex!
 
 <!-- ASTROPHOTO BANNER IMG-->
 <a href="https://www.alexdeise.com/" target="_blank"><img src="DSC05176.jpg"></img></a>
@@ -17,7 +17,7 @@ Photo taken @ Seven Springs Mtn Resort Summer 2021 Click photo above for more sp
 ## Current Resume
 <a href="https://docs.google.com/document/d/1THvcXADx0_MxQqHICzDjZ3K-z4jHIO19xpSRiiSJsW0/edit?usp=sharing">Here</a> is a copy of my current resume on google drive if you're interested
 ## Current Tech Stack
--`Java` , `Javascript.` , `HTML` , `CSS` , `Vue.js` , `PostgreSQL`, `Bootstrap`
+-`Java` , `Javascript.` , `HTML` , `CSS` , `Vue.js` , `PostgreSQL`, `Bootstrap`, `Angular`, `Springboot`
 
 ## Currently Learning / Exploring
 - `React.js`
