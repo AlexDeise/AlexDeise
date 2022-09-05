@@ -1,4 +1,4 @@
-# My name is Alex and I currently a Full Stack Developer at Fedex!
+# My name is Alex and I am currently a Full Stack Developer I at Fedex!
 
 <!-- ASTROPHOTO BANNER IMG-->
 <a href="https://www.alexdeise.com/" target="_blank"><img src="DSC05176.jpg"></img></a>
